@@ -2,6 +2,7 @@
 # trigger
     # simple trigger
         https://developers.google.com/apps-script/guides/triggers
-        <img src = "https://user-images.githubusercontent.com/76818598/173011610-b574ce2b-3cf8-4ba5-8c6b-17f5d6286301.PNG" />
+        
+    ![trigger_simple_define](https://user-images.githubusercontent.com/76818598/173011803-842111d2-d75d-46f7-bce5-979fcaaa48f8.PNG)
 
         
