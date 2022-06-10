@@ -2,5 +2,6 @@
 # trigger
     # simple trigger
         https://developers.google.com/apps-script/guides/triggers
+        ![trigger_simple_define](https://user-images.githubusercontent.com/76818598/173011610-b574ce2b-3cf8-4ba5-8c6b-17f5d6286301.PNG)
+
         
-        ![trigger_simple_define](https://user-images.githubusercontent.com/76818598/173011521-7a2a7d70-310c-4423-b8aa-c0934417174c.PNG)
